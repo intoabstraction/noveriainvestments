@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family: 'Montserrat Flex';
+  src: url('/assets/fonts/Montserrat/Montserrat-VariableFont_wght.woff2') format('woff2 supports variations'),
+  url('/assets/fonts/Montserrat/Montserrat-VariableFont_wght.woff2') format('woff2-variations');
+  font-weight: 500;
+}
+
+body {
+  font-family: "Montserrat Flex", sans-serif !important;
+}
+
+.fill {
+    min-height: 100vh;
+    height: 100vh;
+}
